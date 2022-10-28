@@ -709,9 +709,9 @@ ul#nav li.active a {
 
 .single-client a {
     border: 1px solid #ddd;
-    height: 200px;
+    height: 450px;
     margin-bottom: 30px;
-    padding: 80px 16px;
+    padding: 10px 16px;
     text-align: center;
     display: block;
 }
